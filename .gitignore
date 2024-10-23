@@ -1,0 +1,3 @@
+﻿*.pyc
+*.cpython-312.pyc
+.env
